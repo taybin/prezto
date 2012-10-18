@@ -33,10 +33,10 @@ zstyle ':prezto:load' pmodule \
   'git' \
   'node' \
   'history-substring-search' \
-  'z' \
   'spectrum' \
   'utility' \
   'completion' \
+  'fasd' \
   'prompt'
 
 #
